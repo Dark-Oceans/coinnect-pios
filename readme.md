@@ -6,7 +6,7 @@
 
 ## 🔗 Live App
 
-🌐 [https://dark-oceans.github.io/Loyalty](https://dark-oceans.github.io/Loyalty)
+🌐 [https://dark-oceans.github.io/Loyalty](https://dark-oceans.github.io/loyalty)
 
 Best viewed in the **Pi Browser** for full Pi SDK support.
 
